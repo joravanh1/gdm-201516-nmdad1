@@ -1,30 +1,13 @@
 #BIOGRAFIE
 ===========
 > 
-Portfolio
-PERSONALIA
+#Portfolio
+##PERSONALIA
 		
-Naam:
-Adres:
-
-Tel:
-Gsm:
-Email:
-Geboortedatum:
-Geslacht:
-Burgerlijke staat:
-Nationaliteit:		JORAN VANHASTE
-DAMMESTRAAT 102
-8800 ROESELARE
-051 / 24 53 17
-0484 75 66 14
-Joran_van@hotmail.com
-23 juli 1996 te Roeselare
-man
-ongehuwd 
-Belg
-	
-DIPLOMA’S
+Naam: Joran Vanhaste	
+>
+>	
+##DIPLOMA’S
 
 2002-2008	* Lager onderwijs
 2008	* Lagere graad: eindattest studierichting Algemene Verbale Vorming
@@ -32,32 +15,32 @@ DIPLOMA’S
 2007	* Getuigschrift EHBO bij het Vlaamse Kruis
 2014	* Algemeen secondair onderwijs
 
-OPLEIDINGEN
+##OPLEIDINGEN
 
 2002-2008	* Lageronderwijs
 2008-2014	* Algemeen secondair onderwijs:	
--	Eerste graad: 	moderne
--	Tweede graad: 	3e jaar Economie 4+1
+> Eerste graad: 	moderne
+>	Tweede graad: 	3e jaar Economie 4+1
 4e Handel
--	Derde graad:	5e Handel
+>	Derde graad:	5e Handel
 6e Handel
 		* Hoge school: 
--	Eerste semester:    Grafische en Digitale Media
--	Tweede semester: Multimediaproductie
+>	Eerste semester:    Grafische en Digitale Media
+>	Tweede semester: Multimediaproductie
 
-BIJKOMENDE CURSUSSEN
+##BIJKOMENDE CURSUSSEN
 
 2003-2010	* Algemene Verbale Vorming aan de stedelijke academie voor muziek woord en dans.
 2007		* Jeugdinitiatie EHBO
 
-WERKERVARING
-
+##WERKERVARING
 2010-2012	* Meehelpen met  zelfstandige nonkel tijdens vakanties
 2011		* Opdienen op een feest
 2012-2014	* Werken bij slagerij Dugardeyn: winkelbediende, afwasser, aanvullen rekken..
 2014-2015	* Afwasser, helpen achter de bar en in de keuken bij Bistro De Witte Merel
+2015-2016	* Mc Donald's
 
-BIJKOMENDE INFORMATIE
+##BIJKOMENDE INFORMATIE
 
 Talenkennis: Nederlands (moedertaal), Frans, Engels en noties Duits.
 Computerkennis: Word, Excel, Power Point, Access, Illustrator, InDesign, Dreamweaver, Photoshop (noties)
@@ -67,7 +50,20 @@ Hobby’s: Ik loop regelmatig
 
 
 
-Werkervaring
-Kennis webtechnologieën
-Softwarekennis
-Contactinformatie
+
+##KENNIS WEBTECHNOLOGIEN
+Dreamweaver
+
+##SOFTWARE KENNIS
+Computerkennis: Word, Excel, Power Point, Access, Illustrator, InDesign, Dreamweaver, Photoshop (noties)
+
+##CONTACTINFORMATIE
+Adres: Dammestraat 102
+
+Tel: 051 24 53 17
+Gsm: 0484756614
+Email: joran_van@hotmail.com
+Geboortedatum: 23/07/1996
+Geslacht: MAN
+Burgerlijke staat: ongehuwd
+Nationaliteit:	Belg
