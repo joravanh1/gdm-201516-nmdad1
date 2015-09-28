@@ -9,11 +9,11 @@ Naam: Joran Vanhaste
 >	
 ##DIPLOMA’S
 
-2002-2008	* Lager onderwijs
-2008	* Lagere graad: eindattest studierichting Algemene Verbale Vorming
-2004	* Diploma dactylografie (ondersheiding)
-2007	* Getuigschrift EHBO bij het Vlaamse Kruis
-2014	* Algemeen secondair onderwijs
+2002-2008<br>	* Lager onderwijs <br>
+2008<br>	* Lagere graad: eindattest studierichting Algemene Verbale Vorming<br>
+2004<br>	* Diploma dactylografie (ondersheiding)<br>
+2007<br>	* Getuigschrift EHBO bij het Vlaamse Kruis<br>
+2014<br>	* Algemeen secondair onderwijs<br>
 
 ##OPLEIDINGEN
 
