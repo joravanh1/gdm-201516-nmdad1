@@ -4,7 +4,9 @@
 #Portfolio
 ##PERSONALIA
 		
-Naam: Joran Vanhaste	
+<p>
+Naam: Joran Vanhaste <p>
+	
 
 	
 ##DIPLOMA’S
