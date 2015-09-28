@@ -1,11 +1,19 @@
-<<<<<<< HEAD
-#BIografie
-lol
-halolo
-# gdm-2015_2016-nmdad1
-# gdm-2015_2016-nmdad1
-# gdm-2015_2016-nmdad1
-=======
-# gdm-201516-nmad1
-# gdm-201516-nmdad1
->>>>>>> 830ad0490a9e886447149f49b73ece323a1d75f6
+![alt text][logo]
+
+[logo]: https://github.com/.../master/src/common/images/icon48.png 
+
+Omschrijving van de repository (project)
+
+Oplijsting van aanwezige bestanden en folders
+
+Configuratie en installatie instructies
+
+Documentatie
+
+Gekende bugs
+
+Aanvragen voor toekomstige nieuwe features
+
+Auteurs
+
+Copyright en licentie
