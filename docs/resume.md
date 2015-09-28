@@ -5,9 +5,8 @@
 ##PERSONALIA
 		
 <p>
-Naam: Joran Vanhaste <p>
-	
-
+Naam:      Joran Vanhaste	<p>
+<p>
 	
 ##DIPLOMA’S
 
