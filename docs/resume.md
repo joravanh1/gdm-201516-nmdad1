@@ -4,9 +4,8 @@
 #Portfolio
 ##PERSONALIA
 		
-<p>
-Naam:      Joran Vanhaste	<p>
-<p>
+
+Naam:      Joran Vanhaste	
 	
 ##DIPLOMA’S
 
@@ -31,15 +30,15 @@ Tweede semester: Multimediaproductie<br>
 
 ##BIJKOMENDE CURSUSSEN
 
-2003-2010	* Algemene Verbale Vorming aan de stedelijke academie voor muziek woord en dans.<br>
-2007		* Jeugdinitiatie EHBO<br>
+2003-2010<br>	* Algemene Verbale Vorming aan de stedelijke academie voor muziek woord en dans.<br>
+2007<br>		* Jeugdinitiatie EHBO<br>
 
 ##WERKERVARING
-2010-2012	* Meehelpen met  zelfstandige nonkel tijdens vakanties<br>
-2011		* Opdienen op een feest<br>
-2012-2014	* Werken bij slagerij Dugardeyn: winkelbediende, afwasser, aanvullen rekken..<br>
-2014-2015	* Afwasser, helpen achter de bar en in de keuken bij Bistro De Witte Merel<br>
-2015-2016	* Mc Donald's<br>
+2010-2012<br>	* Meehelpen met  zelfstandige nonkel tijdens vakanties<br>
+2011<br>		* Opdienen op een feest<br>
+2012-2014<br>	* Werken bij slagerij Dugardeyn: winkelbediende, afwasser, aanvullen rekken..<br>
+2014-2015<br>	* Afwasser, helpen achter de bar en in de keuken bij Bistro De Witte Merel<br>
+2015-2016<br>	* Mc Donald's<br>
 
 ##BIJKOMENDE INFORMATIE
 
