@@ -1,6 +1,4 @@
-![alt text][logo]
-
-[logo]: https://github.com/.../master/src/common/images/icon48.png 
+![alt text][logo]: https://github.com/.../master/src/common/images/icon48.png 
 
 Omschrijving van de repository (project)
 
