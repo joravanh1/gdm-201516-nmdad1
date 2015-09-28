@@ -1,4 +1,6 @@
-![alt text][logo]: https://github.com/.../master/src/common/images/icon48.png 
+![alt text][logo]
+
+[logo]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEKgew92pwh3t6IaIj3PazmaN3yia21164I6mvCkFTTr96s5mG
 
 Omschrijving van de repository (project)
 
